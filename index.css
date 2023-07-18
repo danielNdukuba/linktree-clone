@@ -5,7 +5,7 @@ html{
 }
 body{
    font-family: sans-serif;
-    background-image: linear-gradient(#FFA351, #FFBE7B,#EED971);
+    background-image: linear-gradient(#FFA351, #FFBE7B,#FFA351);
     background-size: cover;
     height: fit-content;
     margin: 0;
